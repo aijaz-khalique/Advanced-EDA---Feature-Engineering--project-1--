@@ -1,7 +1,7 @@
 import pandas as pd                     # importing library
 pd.set_option("display.max_columns", None)    #display all columns in the terminal
 pd.set_option("display.width", None)          #display all columns in the terminal
-Data=pd.read_csv("C:/repository/Advanced EDA & Feature Engineering (project 1 (DecodeLab))/DatasetforDataAnalytics.csv")   #load data
+Data=pd.read_csv("C:/repository/DecodeLabs-Internship/Advanced EDA & Feature Engineering (project 1 )/DatasetforDataAnalytics.csv")   #load data
 
 print(Data.head(10))                            #  print first 10 rows 
 print("rows and columns=\n ",Data.shape)
