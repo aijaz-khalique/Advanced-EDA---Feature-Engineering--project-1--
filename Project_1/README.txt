@@ -170,7 +170,7 @@ E-Commerce-Data-Cleaning/
 1. Clone this repository.
 
 ```bash
-git clone https://github.com/aijaz-khalique/Decode_lab_Internship/Project_1.git
+git clone https://github.com/aijaz-khalique/Decode_Lab_Internship/tree/main/Project_1
 ```
 
 2. Install the required library.
