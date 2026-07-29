@@ -170,7 +170,7 @@ E-Commerce-Data-Cleaning/
 1. Clone this repository.
 
 ```bash
-git clone 
+git clone https://github.com/aijaz-khalique/Advanced-EDA---Feature-Engineering--project-1--
 ```
 
 2. Install the required library.
